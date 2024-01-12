@@ -29,7 +29,7 @@ class FlatsScraper(scrapy.Spider):
             title = estate['name']
             images = [image['href'] for image in estate['_links']['images']]
             crud.create(db=db, title=title, image_url=images[0])
-            
+
         db.close()
 
         if self.page < self.max_pages:
