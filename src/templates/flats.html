@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flats</title>
+</head>
+<body>
+{% for flat in flats %}
+<h3>{{ flat.title }}</h3>
+<img src="{{ flat.image_url }}">
+{% endfor %}
+</body>
+</html>
