@@ -12,5 +12,22 @@ services:
       - "5432:5432"
     networks:
       - internal
+#  scraper:
+#    container_name: sreality-scraper
+#    build:
+#      context: .
+#      dockerfile: app.dockerfile
+#    environment:
+#      - POSTGRES_SERVER=db
+#    depends_on:
+#      - db
+#    restart: on-failure
+#    volumes:
+#      - ./:/app
+#    ports:
+#      - "8080:8080"
+#    networks:
+#      - internal
+
 networks:
   internal:
