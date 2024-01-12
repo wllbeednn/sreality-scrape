@@ -12,7 +12,7 @@ class FlatsScraper(scrapy.Spider):
 
     page = 1
     per_page = 20
-    estates_number = 20
+    estates_number = 500
     max_pages = math.ceil(estates_number / per_page)
 
     api_endpoint = 'https://www.sreality.cz/api/cs/v2/estates'
