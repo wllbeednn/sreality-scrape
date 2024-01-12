@@ -2,6 +2,8 @@ import json
 import math
 
 import scrapy
+import crud
+from db.session import SessionLocal
 
 
 class FlatsScraper(scrapy.Spider):
@@ -24,7 +26,9 @@ class FlatsScraper(scrapy.Spider):
         for estate in estates:
             title = estate['name']
             images = [image['href'] for image in estate['_links']['images']]
-            print(title, images[0])
+            db = SessionLocal()
+            crud.create(db=db, title=title, image_url=images[0])
+            db.close()
         if self.page < self.max_pages:
             self.page += 1
             url = f'{self.api_endpoint}?category_main_cb=1&category_type_cb=1&page={self.page}&per_page={self.per_page}'
