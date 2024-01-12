@@ -1,0 +1,2922 @@
+[
+  {
+    "labelsReleased": [
+      [
+        "panel"
+      ],
+      [
+        "shop"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Panelov\u00e1",
+      "Obchod 4 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "personal",
+        "balcony",
+        "panel",
+        "cellar",
+        "elevator",
+        "not_furnished"
+      ],
+      [
+        "small_shop",
+        "theater",
+        "candy_shop",
+        "vet",
+        "playground",
+        "tavern",
+        "movies",
+        "natural_attraction",
+        "bus_public_transport",
+        "sports",
+        "post_office",
+        "school",
+        "shop",
+        "train",
+        "drugstore",
+        "kindergarten",
+        "restaurant",
+        "medic",
+        "atm",
+        "tram",
+        "metro"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 2,
+      "category_type_cb": 1,
+      "locality": "praha-hostivar-vajdova"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/3166627148",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/3166627148",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Praha 10 - Hostiva\u0159",
+    "has_video": false,
+    "advert_images_count": 15,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 3166627148,
+    "attractive_offer": 0,
+    "price": 2780000,
+    "price_czk": {
+      "value_raw": 2780000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/51dBFpF.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/51dBFpF.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/0?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/3166627148"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/51dBFpF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/fDQBFpI.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/QkYBFoI.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/swrBFfz.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/iO8BFpM.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/FJ1BFoM.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/51dBFpF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 1+kk 21\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.03934384276868,
+      "lon": 14.524131157231318
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "personal",
+        "loggia",
+        "brick",
+        "cellar",
+        "parking_lots",
+        "not_furnished"
+      ],
+      [
+        "candy_shop",
+        "tavern",
+        "playground",
+        "small_shop",
+        "sports",
+        "kindergarten",
+        "atm",
+        "bus_public_transport",
+        "restaurant",
+        "drugstore",
+        "post_office",
+        "school",
+        "train"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 5,
+      "category_type_cb": 1,
+      "locality": "harrachov-novy-svet-"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1071576396",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1071576396",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Harrachov - Nov\u00fd Sv\u011bt, okres Jablonec nad Nisou",
+    "has_video": false,
+    "advert_images_count": 18,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1071576396,
+    "attractive_offer": 0,
+    "price": 5538000,
+    "price_czk": {
+      "value_raw": 5538000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/9b9BF3X.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/9b9BF3X.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/1?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1071576396"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/9b9BF3X.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/LLKBF7T.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/6RYBFvq.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/Jv0BFxM.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/WJ6BGBZ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/KBqBF3p.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/9b9BF3X.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+1\u00a049\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.77247484276868,
+      "lon": 15.43205815723132
+    },
+    "has_matterport_url": true
+  },
+  {
+    "labelsReleased": [
+      [],
+      [
+        "metro",
+        "post_office"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Metro 2 min. p\u011b\u0161ky",
+      "Po\u0161ta 3 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "terrace",
+        "brick",
+        "elevator",
+        "not_furnished"
+      ],
+      [
+        "candy_shop",
+        "theater",
+        "small_shop",
+        "vet",
+        "playground",
+        "tavern",
+        "movies",
+        "sightseeing",
+        "post_office",
+        "medic",
+        "metro",
+        "atm",
+        "bus_public_transport",
+        "drugstore",
+        "restaurant",
+        "school",
+        "tram",
+        "train",
+        "kindergarten",
+        "sports",
+        "shop"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 12,
+      "category_type_cb": 1,
+      "locality": "praha-dejvice-buzulucka"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/4140319820",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/4140319820",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Praha 6 - Dejvice",
+    "has_video": true,
+    "advert_images_count": 26,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 4140319820,
+    "attractive_offer": 0,
+    "price": 0,
+    "price_czk": {
+      "value_raw": 0,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/gsVBFoP.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/gsVBFoP.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/2?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/4140319820"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/gsVBFoP.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/sUcBFmD.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/1cUBFmY.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/3GuBF2a.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K7/bx9BFqR.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/rTMBFuf.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/gsVBFoP.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 6 pokoj\u016f a v\u00edce 214\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.09182184276868,
+      "lon": 14.40123715723132
+    },
+    "has_matterport_url": true
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "personal",
+        "brick",
+        "cellar",
+        "parking_lots",
+        "not_furnished"
+      ],
+      [
+        "tavern",
+        "candy_shop",
+        "small_shop",
+        "theater",
+        "vet",
+        "playground",
+        "movies",
+        "post_office",
+        "kindergarten",
+        "restaurant",
+        "school",
+        "metro",
+        "tram",
+        "bus_public_transport",
+        "sports",
+        "shop",
+        "atm",
+        "drugstore",
+        "medic",
+        "train"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 4,
+      "category_type_cb": 1,
+      "locality": "praha-krc-u-krcskeho-nadrazi"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/2269209676",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/2269209676",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Praha 4 - Kr\u010d",
+    "has_video": false,
+    "advert_images_count": 18,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 2269209676,
+    "attractive_offer": 0,
+    "price": 5545000,
+    "price_czk": {
+      "value_raw": 5545000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/zQqBFsu.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/zQqBFsu.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/3?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/2269209676"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/zQqBFsu.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/VpGBFpq.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/iNwBFgU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KD/RKdBFph.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/YQ2BFpT.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K7/6RxBFke.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/zQqBFsu.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+kk 40\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.02632784276868,
+      "lon": 14.45496915723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "personal",
+        "balcony",
+        "brick",
+        "cellar",
+        "not_furnished"
+      ],
+      [
+        "small_shop",
+        "tavern",
+        "candy_shop",
+        "vet",
+        "playground",
+        "bus_public_transport",
+        "sports",
+        "post_office",
+        "shop",
+        "train",
+        "drugstore",
+        "restaurant",
+        "kindergarten",
+        "atm",
+        "school"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 5,
+      "category_type_cb": 1,
+      "locality": "nova-ves-pod-plesi-nova-ves-pod-plesi-"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1898776396",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1898776396",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Nov\u00e1 Ves pod Ple\u0161\u00ed, okres P\u0159\u00edbram",
+    "has_video": false,
+    "advert_images_count": 23,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1898776396,
+    "attractive_offer": 0,
+    "price": 2956000,
+    "price_czk": {
+      "value_raw": 2956000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/gy3BFic.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/gy3BFic.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/4?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1898776396"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/gy3BFic.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/DaeBFif.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/hUGBFjB.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/5HhBFqk.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/Ul9BFmP.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/CGOBFjI.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/gy3BFic.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+1\u00a042\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 49.82562484276868,
+      "lon": 14.29834215723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "terrace",
+        "brick",
+        "elevator",
+        "parking_lots",
+        "garage"
+      ],
+      [
+        "tavern",
+        "small_shop",
+        "vet",
+        "candy_shop",
+        "theater",
+        "playground",
+        "movies",
+        "sightseeing",
+        "bus_public_transport",
+        "train",
+        "post_office",
+        "school",
+        "kindergarten",
+        "shop",
+        "tram",
+        "restaurant",
+        "drugstore",
+        "sports",
+        "medic",
+        "atm"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 4,
+      "category_type_cb": 1,
+      "locality": "olomouc-chvalkovice-zeleznicni"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1900975436",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1900975436",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Olomouc - Chv\u00e1lkovice, okres Olomouc",
+    "has_video": false,
+    "advert_images_count": 4,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1900975436,
+    "attractive_offer": 0,
+    "price": 4818000,
+    "price_czk": {
+      "value_raw": 4818000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jk/wZiZVG.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jk/wZiZVG.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/5?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1900975436"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jk/wZiZVG.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jq/EIhZAX.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jk/hkiZVH.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lm/mLlBfay.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jk/wZiZVG.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+kk 50\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 49.60004284276868,
+      "lon": 17.29803015723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "brick"
+      ],
+      [
+        "tavern",
+        "small_shop",
+        "theater",
+        "candy_shop",
+        "vet",
+        "playground",
+        "natural_attraction",
+        "movies",
+        "metro",
+        "tram",
+        "drugstore",
+        "atm",
+        "train",
+        "school",
+        "shop",
+        "sports",
+        "restaurant",
+        "bus_public_transport",
+        "medic",
+        "post_office",
+        "kindergarten"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 6,
+      "category_type_cb": 1,
+      "locality": "praha-hrdlorezy-ucnovska"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/2746405964",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/2746405964",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Praha 9 - Hrdlo\u0159ezy",
+    "has_video": false,
+    "advert_images_count": 17,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 2746405964,
+    "attractive_offer": 0,
+    "price": 11414000,
+    "price_czk": {
+      "value_raw": 11414000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_ME/MGOdCK.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_ME/MGOdCK.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/6?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/2746405964"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_ME/MGOdCK.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_ME/FXqdCL.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_J9/QPjBlSa.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Kd/0DgdHB.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K2/Sr8BErF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J5/UETCFMA.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_ME/MGOdCK.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+kk 78\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.08621884276868,
+      "lon": 14.51346715723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "collective",
+        "panel",
+        "partly_furnished"
+      ],
+      [
+        "shop"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Dru\u017estevn\u00ed",
+      "Panelov\u00e1",
+      "\u010c\u00e1ste\u010dn\u011b vybaven\u00fd",
+      "Obchod 5 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "collective",
+        "balcony",
+        "panel",
+        "elevator",
+        "partly_furnished"
+      ],
+      [
+        "small_shop",
+        "tavern",
+        "vet",
+        "playground",
+        "candy_shop",
+        "movies",
+        "theater",
+        "school",
+        "shop",
+        "atm",
+        "drugstore",
+        "kindergarten",
+        "restaurant",
+        "post_office",
+        "sports",
+        "bus_public_transport",
+        "train"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 7,
+      "category_type_cb": 1,
+      "locality": "usti-nad-orlici-usti-nad-orlici-nova"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1641940044",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1641940044",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "\u00dast\u00ed nad Orlic\u00ed",
+    "has_video": true,
+    "advert_images_count": 17,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1641940044,
+    "attractive_offer": 0,
+    "price": 1884000,
+    "price_czk": {
+      "value_raw": 1884000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/3goBxcQ.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/3goBxcQ.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/7?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1641940044"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/3goBxcQ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J8/yRcirh.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lm/BvkBaZV.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K6/bktbw2.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KC/CMniqO.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Js/M0nJBG.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/3goBxcQ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+1\u00a055\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 49.96956484276868,
+      "lon": 16.41417815723132
+    },
+    "has_matterport_url": true
+  },
+  {
+    "labelsReleased": [
+      [
+        "collective",
+        "panel"
+      ],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Dru\u017estevn\u00ed",
+      "Panelov\u00e1"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "collective",
+        "loggia",
+        "panel",
+        "cellar",
+        "not_furnished"
+      ],
+      [
+        "small_shop",
+        "tavern",
+        "vet",
+        "candy_shop",
+        "playground",
+        "movies",
+        "post_office",
+        "sports",
+        "kindergarten",
+        "train",
+        "restaurant",
+        "shop",
+        "bus_public_transport",
+        "school",
+        "atm",
+        "drugstore"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 7,
+      "category_type_cb": 1,
+      "locality": "unicov-unicov-dukelska"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/3403646284",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/3403646284",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Uni\u010dov, okres Olomouc",
+    "has_video": true,
+    "advert_images_count": 22,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 3403646284,
+    "attractive_offer": 0,
+    "price": 1841000,
+    "price_czk": {
+      "value_raw": 1841000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/020Gsw.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/020Gsw.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/8?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/3403646284"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/020Gsw.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/09uGhF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/WrrGhF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/UUXGl4.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KD/UVnGjE.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/sDIGl5.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/020Gsw.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+1\u00a053\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 49.763025842768684,
+      "lon": 17.12406515723132
+    },
+    "has_matterport_url": true
+  },
+  {
+    "labelsReleased": [
+      [
+        "furnished"
+      ],
+      [
+        "metro"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Vybaven\u00fd",
+      "Metro 6 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "terrace",
+        "cellar",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "furnished"
+      ],
+      [
+        "small_shop",
+        "playground",
+        "tavern",
+        "vet",
+        "candy_shop",
+        "movies",
+        "natural_attraction",
+        "theater",
+        "atm",
+        "school",
+        "medic",
+        "post_office",
+        "sports",
+        "tram",
+        "metro",
+        "bus_public_transport",
+        "shop",
+        "restaurant",
+        "kindergarten",
+        "drugstore",
+        "train"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 4,
+      "category_type_cb": 1,
+      "locality": "praha-vysocany-strnadovych"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1671313228",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1671313228",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Praha 9 - Vyso\u010dany",
+    "has_video": true,
+    "advert_images_count": 23,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1671313228,
+    "attractive_offer": 0,
+    "price": 10276000,
+    "price_czk": {
+      "value_raw": 10276000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/FsUBEGF.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/FsUBEGF.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/9?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1671313228"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/FsUBEGF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MI/tQNB02A.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jq/9m2B5YG.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J7/ISZB5aQ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jl/DPjBgZ4.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LF/fDcB4wr.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/FsUBEGF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+kk 138\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.105497842768685,
+      "lon": 14.52246115723132
+    },
+    "has_matterport_url": true
+  },
+  {
+    "labelsReleased": [
+      [
+        "in_construction"
+      ],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Ve v\u00fdstavb\u011b"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "in_construction",
+        "personal",
+        "terrace",
+        "brick",
+        "cellar",
+        "elevator",
+        "not_furnished"
+      ],
+      [
+        "candy_shop",
+        "small_shop",
+        "theater",
+        "vet",
+        "tavern",
+        "movies",
+        "sightseeing",
+        "playground",
+        "drugstore",
+        "shop",
+        "restaurant",
+        "train",
+        "atm",
+        "school",
+        "bus_public_transport",
+        "tram",
+        "metro",
+        "post_office",
+        "medic",
+        "sports",
+        "kindergarten"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 7,
+      "category_type_cb": 1,
+      "locality": "praha-karlin-pernerova"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/4066219852",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/4066219852",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Praha-Pudni-Byty-cz-Praha-Karlin",
+        "id": 9738,
+        "name": "Praha P\u016fdn\u00ed Byty.cz",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_gY_U/bSzBa.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 8 - Karl\u00edn",
+    "has_video": false,
+    "advert_images_count": 14,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 4066219852,
+    "attractive_offer": 0,
+    "price": 0,
+    "price_czk": {
+      "value_raw": 0,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/kh6BPQa.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/kh6BPQa.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/10?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/4066219852"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/kh6BPQa.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KC/FpsSi.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jr/1YcBqxh.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K5/JJaB9lU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jl/kx4BrlW.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/eiMBPQb.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Km/kh6BPQa.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+1\u00a090\u00a0m\u00b2 (Mezonet)",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.08220584276868,
+      "lon": 14.45276415723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "in_construction"
+      ],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Ve v\u00fdstavb\u011b"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "in_construction",
+        "personal",
+        "terrace",
+        "brick",
+        "cellar",
+        "elevator",
+        "not_furnished"
+      ],
+      [
+        "candy_shop",
+        "small_shop",
+        "theater",
+        "vet",
+        "tavern",
+        "movies",
+        "playground",
+        "sightseeing",
+        "restaurant",
+        "kindergarten",
+        "sports",
+        "school",
+        "post_office",
+        "drugstore",
+        "metro",
+        "medic",
+        "bus_public_transport",
+        "atm",
+        "tram",
+        "train",
+        "shop"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 10,
+      "category_type_cb": 1,
+      "locality": "praha-karlin-pernerova"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/576558924",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/576558924",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Praha-Pudni-Byty-cz-Praha-Karlin",
+        "id": 9738,
+        "name": "Praha P\u016fdn\u00ed Byty.cz",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_gY_U/bSzBa.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 8 - Karl\u00edn",
+    "has_video": false,
+    "advert_images_count": 18,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 576558924,
+    "attractive_offer": 0,
+    "price": 0,
+    "price_czk": {
+      "value_raw": 0,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jr/rl5Bqxc.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jr/rl5Bqxc.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/11?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/576558924"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jr/rl5Bqxc.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J8/wHijE.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KC/60nSb.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jr/i4DiU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KC/xdtSc.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KC/6ebSd.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jr/rl5Bqxc.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 5+kk 114\u00a0m\u00b2 (Mezonet)",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.08220584276868,
+      "lon": 14.45276415723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "terrace",
+        "cellar",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "not_furnished"
+      ],
+      [
+        "candy_shop",
+        "small_shop",
+        "theater",
+        "vet",
+        "tavern",
+        "movies",
+        "playground",
+        "sightseeing",
+        "sports",
+        "tram",
+        "shop",
+        "medic",
+        "school",
+        "atm",
+        "bus_public_transport",
+        "metro",
+        "kindergarten",
+        "drugstore",
+        "train",
+        "post_office",
+        "restaurant"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 4,
+      "category_type_cb": 1,
+      "locality": "praha-karlin-rohanske-nabrezi"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/3317884236",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/3317884236",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Home-Real-Estate-Praha-Vinohrady",
+        "id": 14367,
+        "name": "Home Real Estate",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_H_D/oSdB2q7.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 8 - Karl\u00edn",
+    "has_video": false,
+    "advert_images_count": 10,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 3317884236,
+    "attractive_offer": 0,
+    "price": 6543000,
+    "price_czk": {
+      "value_raw": 6543000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/cenBU1O.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/cenBU1O.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/12?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/3317884236"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/cenBU1O.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K7/2spBU7p.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/6WjBU51.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/NoQBU1Q.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QR_MK/y6lBU5r.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/BWEBU9y.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/cenBU1O.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+kk 34\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.08629484276868,
+      "lon": 14.45357115723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "furnished"
+      ],
+      [
+        "shop"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Vybaven\u00fd",
+      "Obchod 6 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "loggia",
+        "terrace",
+        "brick",
+        "cellar",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "furnished"
+      ],
+      [
+        "small_shop",
+        "movies",
+        "candy_shop",
+        "tavern",
+        "theater",
+        "vet",
+        "playground",
+        "natural_attraction",
+        "sports",
+        "post_office",
+        "tram",
+        "medic",
+        "metro",
+        "train",
+        "shop",
+        "school",
+        "kindergarten",
+        "atm",
+        "drugstore",
+        "bus_public_transport",
+        "restaurant"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 6,
+      "category_type_cb": 1,
+      "locality": "praha-stodulky-toufarova"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1987827020",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1987827020",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Home-Real-Estate-Praha-Vinohrady",
+        "id": 14367,
+        "name": "Home Real Estate",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_H_D/oSdB2q7.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 5 - Stod\u016flky",
+    "has_video": false,
+    "advert_images_count": 29,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1987827020,
+    "attractive_offer": 0,
+    "price": 7164000,
+    "price_czk": {
+      "value_raw": 7164000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/RmOBQvx.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/RmOBQvx.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/13?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1987827020"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/RmOBQvx.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/6oSBQvy.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/d7WBQsh.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/8rGBQpj.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/8XJBQrc.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/JUbBQ0v.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/RmOBQvx.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+kk 53\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.03534984276868,
+      "lon": 14.32035215723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "furnished"
+      ],
+      [
+        "post_office"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Vybaven\u00fd",
+      "Po\u0161ta 5 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "loggia",
+        "terrace",
+        "cellar",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "furnished"
+      ],
+      [
+        "candy_shop",
+        "small_shop",
+        "theater",
+        "vet",
+        "tavern",
+        "movies",
+        "playground",
+        "natural_attraction",
+        "post_office",
+        "metro",
+        "train",
+        "shop",
+        "bus_public_transport",
+        "sports",
+        "atm",
+        "tram",
+        "school",
+        "restaurant",
+        "drugstore",
+        "medic",
+        "kindergarten"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 4,
+      "category_type_cb": 1,
+      "locality": "praha-zizkov-malesicka"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/82220364",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/82220364",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Home-Real-Estate-Praha-Vinohrady",
+        "id": 14367,
+        "name": "Home Real Estate",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_H_D/oSdB2q7.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 3 - \u017di\u017ekov",
+    "has_video": true,
+    "advert_images_count": 30,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 82220364,
+    "attractive_offer": 0,
+    "price": 8503000,
+    "price_czk": {
+      "value_raw": 8503000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/6x0BWij.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/6x0BWij.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/14?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/82220364"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/6x0BWij.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/CSfBWuD.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/y2hBWlU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/IU6BWiv.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/JNgBWg1.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KD/gOcBWmY.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/6x0BWij.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+kk 56\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.078691842768684,
+      "lon": 14.47498015723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "cellar",
+        "elevator"
+      ],
+      [
+        "small_shop",
+        "theater",
+        "vet",
+        "candy_shop",
+        "tavern",
+        "movies",
+        "playground",
+        "natural_attraction",
+        "sightseeing",
+        "atm",
+        "shop",
+        "bus_public_transport",
+        "restaurant",
+        "drugstore",
+        "kindergarten",
+        "train",
+        "school",
+        "medic",
+        "tram",
+        "post_office",
+        "sports",
+        "metro"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 2,
+      "category_type_cb": 1,
+      "locality": "praha-holesovice-v-haji"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/2551583820",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/2551583820",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      }
+    },
+    "paid_logo": 0,
+    "locality": "Praha 7 - Hole\u0161ovice",
+    "has_video": false,
+    "advert_images_count": 6,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 2551583820,
+    "attractive_offer": 0,
+    "price": 5162000,
+    "price_czk": {
+      "value_raw": 5162000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/pUxljZ.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/pUxljZ.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/15?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/2551583820"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/pUxljZ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KD/VkDlwO.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K7/Py0lqp.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/Alrltb.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/AfIlpu.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/5Boltc.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/pUxljZ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 1+kk 32\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.095140842768686,
+      "lon": 14.461789157231319
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "terrace",
+        "not_furnished"
+      ],
+      [
+        "small_shop",
+        "tavern",
+        "candy_shop",
+        "playground",
+        "vet",
+        "theater",
+        "natural_attraction",
+        "movies",
+        "sightseeing",
+        "bus_public_transport",
+        "school",
+        "atm",
+        "shop",
+        "restaurant",
+        "drugstore",
+        "medic",
+        "sports",
+        "tram",
+        "train",
+        "post_office",
+        "kindergarten"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 6,
+      "category_type_cb": 1,
+      "locality": "brno-husovice-netusilova"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1184036172",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1184036172",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "CENTURY-21-All-Inclusive-Brno-Bystrc",
+        "id": 8285,
+        "name": "CENTURY 21 All Inclusive",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_QK_s/vqtLiv.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Brno - Husovice, okres Brno-m\u011bsto",
+    "has_video": false,
+    "advert_images_count": 10,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1184036172,
+    "attractive_offer": 0,
+    "price": 5323000,
+    "price_czk": {
+      "value_raw": 5323000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/Sn2BWTU.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/Sn2BWTU.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/16?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1184036172"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/Sn2BWTU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QN_KD/0MWBWRY.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/VbwBWYF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/FytBWP6.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/dQpBWTW.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/ZzPBWTY.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/Sn2BWTU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+kk 45\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 49.20500484276868,
+      "lon": 16.64077915723132
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "furnished"
+      ],
+      [
+        "metro",
+        "medic"
+      ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Vybaven\u00fd",
+      "Metro 2 min. p\u011b\u0161ky",
+      "L\u00e9ka\u0159 6 min. p\u011b\u0161ky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "loggia",
+        "brick",
+        "cellar",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "furnished"
+      ],
+      [
+        "small_shop",
+        "candy_shop",
+        "theater",
+        "vet",
+        "tavern",
+        "movies",
+        "playground",
+        "sightseeing",
+        "shop",
+        "school",
+        "kindergarten",
+        "drugstore",
+        "atm",
+        "train",
+        "sports",
+        "metro",
+        "bus_public_transport",
+        "restaurant",
+        "medic",
+        "post_office",
+        "tram"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 6,
+      "category_type_cb": 1,
+      "locality": "praha-vinohrady-rubesova"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1437316428",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1437316428",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Home-Real-Estate-Praha-Vinohrady",
+        "id": 14367,
+        "name": "Home Real Estate",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_H_D/oSdB2q7.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 2 - Vinohrady",
+    "has_video": true,
+    "advert_images_count": 30,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1437316428,
+    "attractive_offer": 0,
+    "price": 14041000,
+    "price_czk": {
+      "value_raw": 14041000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/UO8BQ3G.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/UO8BQ3G.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/17?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1437316428"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/UO8BQ3G.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QO_K7/3AjBQxC.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/8mgBQzK.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/WDEBQq4.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/0AFBQzL.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/VEaBQn1.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/UO8BQ3G.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+kk 73\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.07097084276868,
+      "lon": 14.439917157231319
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "partly_furnished"
+      ],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "\u010c\u00e1ste\u010dn\u011b vybaven\u00fd"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "loggia",
+        "terrace",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "partly_furnished"
+      ],
+      [
+        "small_shop",
+        "tavern",
+        "candy_shop",
+        "theater",
+        "vet",
+        "playground",
+        "natural_attraction",
+        "movies",
+        "drugstore",
+        "bus_public_transport",
+        "sports",
+        "tram",
+        "post_office",
+        "atm",
+        "train",
+        "school",
+        "medic",
+        "metro",
+        "kindergarten",
+        "shop",
+        "restaurant"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 4,
+      "category_type_cb": 1,
+      "locality": "praha-vysocany-pod-harfou"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 0,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/2247152972",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/2247152972",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Home-Real-Estate-Praha-Vinohrady",
+        "id": 14367,
+        "name": "Home Real Estate",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_H_D/oSdB2q7.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 9 - Vyso\u010dany",
+    "has_video": false,
+    "advert_images_count": 9,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 2247152972,
+    "attractive_offer": 0,
+    "price": 7320000,
+    "price_czk": {
+      "value_raw": 7320000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/bs1BWk7.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/bs1BWk7.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/18?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/2247152972"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/bs1BWk7.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/1P7BWzc.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/DxEBWrh.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/qdFBWpH.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QM_Ko/ecdBWyK.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QI_Jn/RByBWpI.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/bs1BWk7.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 2+kk 51\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.09671284276868,
+      "lon": 14.511764157231319
+    },
+    "has_matterport_url": false
+  },
+  {
+    "labelsReleased": [
+      [
+        "furnished"
+      ],
+      []
+    ],
+    "has_panorama": 0,
+    "labels": [
+      "Vybaven\u00fd"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+      [
+        "new_building",
+        "personal",
+        "balcony",
+        "loggia",
+        "terrace",
+        "brick",
+        "cellar",
+        "elevator",
+        "parking_lots",
+        "garage",
+        "furnished"
+      ],
+      [
+        "candy_shop",
+        "small_shop",
+        "tavern",
+        "vet",
+        "movies",
+        "theater",
+        "playground",
+        "natural_attraction",
+        "medic",
+        "bus_public_transport",
+        "kindergarten",
+        "school",
+        "tram",
+        "restaurant",
+        "atm",
+        "shop",
+        "train",
+        "post_office",
+        "sports",
+        "metro",
+        "drugstore"
+      ]
+    ],
+    "seo": {
+      "category_main_cb": 1,
+      "category_sub_cb": 6,
+      "category_type_cb": 1,
+      "locality": "praha-letnany-tupolevova"
+    },
+    "exclusively_at_rk": 0,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+      "favourite": {
+        "is_favourite": false,
+        "_links": {
+          "self": {
+            "profile": "/favourite/doc",
+            "href": "/cs/v2/favourite/1303192652",
+            "title": "Oblibene inzeraty"
+          }
+        }
+      },
+      "note": {
+        "note": "",
+        "_links": {
+          "self": {
+            "profile": "/note/doc",
+            "href": "/cs/v2/note/1303192652",
+            "title": "Poznamky inzeratu"
+          }
+        },
+        "has_note": false
+      },
+      "company": {
+        "url": "Home-Real-Estate-Praha-Vinohrady",
+        "id": 14367,
+        "name": "Home Real Estate",
+        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_H_D/oSdB2q7.png?fl=res,140,140,3,ffffff"
+      }
+    },
+    "paid_logo": 1,
+    "locality": "Praha 9 - Let\u0148any",
+    "has_video": false,
+    "advert_images_count": 30,
+    "new": false,
+    "auctionPrice": 0.0,
+    "type": 1,
+    "hash_id": 1303192652,
+    "attractive_offer": 0,
+    "price": 9538000,
+    "price_czk": {
+      "value_raw": 9538000,
+      "unit": "",
+      "name": "Celkov\u00e1 cena"
+    },
+    "_links": {
+      "dynamicDown": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/IxPBWiF.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+        }
+      ],
+      "dynamicUp": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/IxPBWiF.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+        }
+      ],
+      "iterator": {
+        "href": "/cs/v2/estate-iterator/19?category_main_cb=1&suggested_regionId=-1&suggested_districtId=-1&category_type_cb=1"
+      },
+      "self": {
+        "href": "/cs/v2/estates/1303192652"
+      },
+      "images": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/IxPBWiF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jt/bGuBWj2.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Js/rSTBWw5.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/hkCBWkM.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QL_J9/sj9BWox.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        },
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_Lp/DsyBWkO.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ],
+      "image_middle2": [
+        {
+          "href": "https://d18-a.sdn.cz/d_18/c_img_QP_LH/IxPBWiF.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+        }
+      ]
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+kk 102\u00a0m\u00b2",
+    "region_tip": 0,
+    "gps": {
+      "lat": 50.12547184276868,
+      "lon": 14.512870157231319
+    },
+    "has_matterport_url": false
+  }
+]
