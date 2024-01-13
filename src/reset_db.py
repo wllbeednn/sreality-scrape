@@ -14,5 +14,5 @@ except SQLAlchemyError as e:
     # probably docker container with db is not initialized, just wait a little bit
     logging.warning(msg="Probably db is not yet initialized, sleeping for a moment.")
 
-    time.sleep(7)
+    time.sleep(10)
     Base.metadata.drop_all(engine)
