@@ -10,6 +10,9 @@ from db.session import SessionLocal
 
 
 class FlatsScraper(scrapy.Spider):
+    """
+    Scraper for flats on sreality.cz.
+    """
     name = 'sreality-flats-scraper'
     allowed_domains = ["sreality.cz"]
 
@@ -24,6 +27,10 @@ class FlatsScraper(scrapy.Spider):
     ]
 
     def parse(self, response, kwargs=None):
+        """
+        Parse each response from start_urls and parse each next response yielded within this parsing.
+        :param response: http response with data to scrape.
+        """
         data = json.loads(response.text)
         estates = data['_embedded']['estates']
         db = SessionLocal()
