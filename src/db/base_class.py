@@ -5,7 +5,6 @@ Module with SQLAlchemy base class used to create other models from this Base cla
 from sqlalchemy.orm import as_declarative, declared_attr
 
 
-# Base class is managed by SQLAlchemy and doesn't need more public methods
 @as_declarative()
 class Base:
     """

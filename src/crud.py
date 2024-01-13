@@ -1,5 +1,7 @@
+"""
+Module for operations with database.
+"""
 from typing import Type
-
 from models import Flat
 from sqlalchemy.orm import Session
 

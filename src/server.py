@@ -1,3 +1,6 @@
+"""
+Main module with HTTP server and controllers.
+"""
 import uvicorn
 
 from fastapi import FastAPI, Depends, Request
@@ -16,6 +19,9 @@ templates = Jinja2Templates(directory="templates")
 
 @app.get("/", response_class=HTMLResponse)
 async def get_flats(request: Request, db: Annotated[Session, Depends(get_db)]):
+    """
+    Get all flats from db, render to template and send back as response.
+    """
     flats = get_all(db=db)
     return templates.TemplateResponse(
         request=request, name="flats.html", context={"flats": flats}

@@ -1,3 +1,6 @@
+"""
+Script to scrape data.
+"""
 import json
 import math
 
